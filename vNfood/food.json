@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Phở",
+    "description": "Phở là món ăn truyền thống nổi tiếng của Việt Nam, gồm bánh phở, nước dùng đậm đà, thịt bò hoặc gà và các loại rau thơm.",
+    "image": "https://raw.githubusercontent.com/ntbichcham/vNfood/main/Pho.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Bánh xèo",
+    "description": "Bánh xèo là món bánh giòn được làm từ bột gạo, nhân tôm, thịt và giá đỗ, thường ăn kèm rau sống và nước mắm chua ngọt.",
+    "image": "https://raw.githubusercontent.com/ntbichcham/vNfood/main/banhxeo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bánh mì",
+    "description": "Bánh mì Việt Nam có lớp vỏ giòn, nhân đa dạng như thịt, chả, pate, rau và nước sốt, là món ăn đường phố nổi tiếng trên thế giới.",
+    "image": "https://raw.githubusercontent.com/ntbichcham/vNfood/main/banhmi.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bún chả Hà Nội",
+    "description": "Bún chả Hà Nội gồm bún tươi, chả nướng thơm lừng, nước mắm pha và rau sống, là đặc sản nổi tiếng của thủ đô.",
+    "image": "https://raw.githubusercontent.com/ntbichcham/vNfood/main/buncha.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bún đậu mắm tôm",
+    "description": "Bún đậu mắm tôm gồm bún lá, đậu phụ chiên, chả cốm, thịt luộc và mắm tôm pha, mang hương vị đặc trưng của ẩm thực miền Bắc.",
+    "image": "https://raw.githubusercontent.com/ntbichcham/vNfood/main/bundau.jpg"
+  }
+]
